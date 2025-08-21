@@ -14,6 +14,4 @@ Data-driven decisions are pivotal in today's business landscape. With this Power
 📊 Improved Inventory Management
 📉 Cost Reduction Opportunities
 📈 Sales Growth Strategies
-
-Check my work here: https://app.powerbi.com/reportEmbed?reportId=a4d84fd2-6d8d-401f-9fa3-b171dff8490c&autoAuth=true&ctid=242d5969-d4ad-4e47-9c9c-8af18d85fa02
 [Screenshot (69) (2 files merged).pdf](https://github.com/Somya2115/Sales-Dashboard/files/14109210/Screenshot.69.2.files.merged.pdf)
